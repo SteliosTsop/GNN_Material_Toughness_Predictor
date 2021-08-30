@@ -5,7 +5,7 @@ This repository presents the source code developed for the research work publish
 
 ## Graphical Abstract
 
-<img src="Images/SEM_Predictions.jpg">
+<img src="Images/Graphical_Abstract.png">
 
 ## Abstract
 
